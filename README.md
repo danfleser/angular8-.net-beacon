@@ -1,6 +1,8 @@
 # TodoApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+This is a simple Todo app.
+Frontend is implemented in angular 8 - https://angular.io/tutorial
+Backend is implemented in .net - https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio
 
 ## Development server
 
